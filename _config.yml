@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<h3 class="header-title">Missions</h3><ul><li>Contribuer à la qualité générale de l'hébergement et du séjour de la clientèle&nbsp;dans le respect du contrat hôtelier et du budget du site.</li><li>Prendre en charge la gestion des services.</li><li>Animer, encadrer et former une équipe.</li><li>Garantir l'hygiène et la sécurité des patients et du personnel.</li><li>Travailler en collaboration avec tous les co-acteurs d'un établissement de soins.</li></ul>"
+resume_header_intro: "<p><h3 class="header-title">Missions</h3><ul><li>Contribuer à la qualité générale de l'hébergement et du séjour de la clientèle&nbsp;dans le respect du contrat hôtelier et du budget du site.</li><li>Prendre en charge la gestion des services.</li><li>Animer, encadrer et former une équipe.</li><li>Garantir l'hygiène et la sécurité des patients et du personnel.</li><li>Travailler en collaboration avec tous les co-acteurs d'un établissement de soins.</li></ul></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
